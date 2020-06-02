@@ -1,4 +1,5 @@
 # Python-Assignments
 Basic exercises for learning Python
 
-These exercises are part of the ML course for learning basic Python coding using Loops,Lists, list comprehensions and exception handling  
+These exercises are part of the ML course.
+Helpful for learning basic Python coding and using Loops,Lists, list comprehensions ,functions, classes and exception handling  
